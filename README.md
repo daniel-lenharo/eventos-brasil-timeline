@@ -1,8 +1,6 @@
 Timeline dos eventos de Software Livre e Código Aberto no Brasil
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Mantido por:
-^^^^^^^^^^^^
 
 Paulo Henrique de Lima Santana (phls)
 
