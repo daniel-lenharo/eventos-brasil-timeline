@@ -4,7 +4,7 @@ Mantido por:
 
 Paulo Henrique de Lima Santana (phls)
 
-phls@softwarelivre.org
+paulo@phls.com.br
 
 http://www.phls.com.br
 
